@@ -48,7 +48,7 @@ This project was not just a quantitative analysis but also an exploration into t
 ## Getting Started 🚀
 
 1. Clone the repository.
-2. Ensure you have the necessary Python libraries installed (`pandas`, `numpy`, `matplotlib`, `geopandas`).
+2. Ensure you have the necessary Python libraries installed (`pandas`, `numpy`, `matplotlib`, `geopandas`, `sklearn`, `shapefile`, `seaborn`).
 3. Navigate to the Jupyter notebook to view the complete analysis.
 
 ---
